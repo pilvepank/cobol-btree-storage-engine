@@ -4,3 +4,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-01-16** `[001]`: chore: initialize repository and configure gitignore for GnuCOBOL 3.2
 - **2023-01-19** `[002]`: docs: add initial architecture specification and RFC draft
 - **2023-01-23** `[003]`: docs: define data dictionary and byte-level alignment requirements
+- **2023-01-26** `[004]`: docs: document compiler flags and GnuCOBOL 3.2 toolchain setup
