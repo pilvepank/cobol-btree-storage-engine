@@ -8,3 +8,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-01-29** `[005]`: docs: establish TalTech coding standards and copybook guidelines
 - **2023-02-02** `[006]`: build: scaffold initial Makefile with clean and stub build rules
 - **2023-02-05** `[007]`: chore: add Windows compilation batch stub
+- **2023-02-08** `[008]`: chore: add Windows execution runner stub
