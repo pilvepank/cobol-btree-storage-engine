@@ -12,3 +12,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-02-12** `[009]`: docs: add initial system overview to README
 - **2023-02-15** `[010]`: docs: add memory allocation and performance invariant targets
 - **2023-02-18** `[011]`: feat(schema): declare project version manifest
+- **2023-02-22** `[012]`: docs: define security guidelines and vulnerability disclosure terms
