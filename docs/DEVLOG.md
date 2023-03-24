@@ -21,3 +21,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-14** `[018]`: docs: outline test strategy and assertion principles
 - **2023-03-17** `[019]`: chore: tag v0.1.0-alpha architecture milestone
 - **2023-03-20** `[020]`: Merge pull request #1 from pilvepank/init-architecture
+- **2023-03-24** `[021]`: feat(schema): scaffold BTREE-CONFIG.cpy record layout and header fields
