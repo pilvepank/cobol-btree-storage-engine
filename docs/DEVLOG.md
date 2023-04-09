@@ -26,3 +26,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-03-30** `[023]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in BTREE-CONFIG.cpy
 - **2023-04-03** `[024]`: feat(schema): declare 88-level condition names and validation states in BTREE-CONFIG.cpy
 - **2023-04-06** `[025]`: docs(schema): document byte offsets and alignment boundaries for BTREE-CONFIG.cpy
+- **2023-04-09** `[026]`: Merge pull request #6 from pilvepank/schema-btree-config-cpy
