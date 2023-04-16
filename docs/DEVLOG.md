@@ -28,3 +28,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-04-06** `[025]`: docs(schema): document byte offsets and alignment boundaries for BTREE-CONFIG.cpy
 - **2023-04-09** `[026]`: Merge pull request #6 from pilvepank/schema-btree-config-cpy
 - **2023-04-13** `[027]`: feat(schema): scaffold BTREE-PAGE.cpy record layout and header fields
+- **2023-04-16** `[028]`: feat(schema): add secondary payload fields and attributes to BTREE-PAGE.cpy
