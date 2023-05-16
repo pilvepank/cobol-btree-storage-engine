@@ -37,3 +37,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-05-06** `[034]`: feat(schema): add secondary payload fields and attributes to BTREE-SUPER.cpy
 - **2023-05-09** `[035]`: refactor(schema): optimize numeric types using COMP-5 / COMP-3 in BTREE-SUPER.cpy
 - **2023-05-13** `[036]`: feat(schema): declare 88-level condition names and validation states in BTREE-SUPER.cpy
+- **2023-05-16** `[037]`: docs(schema): document byte offsets and alignment boundaries for BTREE-SUPER.cpy
