@@ -41,3 +41,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-05-19** `[038]`: Merge pull request #10 from pilvepank/schema-btree-super-cpy
 - **2023-05-23** `[039]`: feat(btree): scaffold btree_engine.cbl identification and environment division
 - **2023-05-26** `[040]`: feat(btree): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
+- **2023-05-29** `[041]`: feat(btree): declare working-storage state buffers and accumulator registers
