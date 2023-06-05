@@ -43,3 +43,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-05-26** `[040]`: feat(btree): configure SPECIAL-NAMES DECIMAL-POINT IS COMMA
 - **2023-05-29** `[041]`: feat(btree): declare working-storage state buffers and accumulator registers
 - **2023-06-01** `[042]`: feat(btree): declare internal lookup tables and binary index pointers
+- **2023-06-05** `[043]`: feat(btree): implement 0000-MAIN entry point and dispatch control loop
