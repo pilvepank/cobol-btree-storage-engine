@@ -51,3 +51,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-06-21** `[048]`: feat(btree): implement secondary state transition paragraph
 - **2023-06-25** `[049]`: feat(btree): implement queue eviction and index compaction logic
 - **2023-06-28** `[050]`: refactor(btree): replace sequential search with binary search
+- **2023-07-01** `[051]`: fix(btree): correct off-by-one boundary underflow in index calculation
