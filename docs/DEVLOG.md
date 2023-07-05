@@ -52,3 +52,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-06-25** `[049]`: feat(btree): implement queue eviction and index compaction logic
 - **2023-06-28** `[050]`: refactor(btree): replace sequential search with binary search
 - **2023-07-01** `[051]`: fix(btree): correct off-by-one boundary underflow in index calculation
+- **2023-07-05** `[052]`: Merge pull request #12 from pilvepank/fix-boundary-underflow
