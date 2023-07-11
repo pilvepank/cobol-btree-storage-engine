@@ -54,3 +54,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-07-01** `[051]`: fix(btree): correct off-by-one boundary underflow in index calculation
 - **2023-07-05** `[052]`: Merge pull request #12 from pilvepank/fix-boundary-underflow
 - **2023-07-08** `[053]`: feat(btree): implement state serialization and snapshot persistence
+- **2023-07-11** `[054]`: feat(btree): implement state reconstruction and crash recovery loader
