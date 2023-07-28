@@ -59,3 +59,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-07-18** `[056]`: perf(btree): eliminate intermediate arithmetic variables to reduce register spill
 - **2023-07-21** `[057]`: refactor(btree): standardize paragraph naming and PERFORM THRU boundaries
 - **2023-07-25** `[058]`: fix(btree): handle zero-quantity edge case without state corruption
+- **2023-07-28** `[059]`: Merge pull request #12 from pilvepank/fix-zero-qty
