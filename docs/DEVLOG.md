@@ -61,3 +61,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-07-25** `[058]`: fix(btree): handle zero-quantity edge case without state corruption
 - **2023-07-28** `[059]`: Merge pull request #12 from pilvepank/fix-zero-qty
 - **2023-07-31** `[060]`: feat(btree): add audit trail event logging and transaction counter
+- **2023-08-04** `[061]`: docs(btree): document engine execution lifecycle in docs/SPECIFICATION.md
