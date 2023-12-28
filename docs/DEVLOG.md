@@ -105,3 +105,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2023-12-18** `[102]`: test(storage): implement ASSERT-EQUAL fixed-point numeric invariant check
 - **2023-12-21** `[103]`: test(storage): add test scenario 1 - nominal valid execution path
 - **2023-12-25** `[104]`: test(storage): add test scenario 2 - maximum capacity boundary test
+- **2023-12-28** `[105]`: test(storage): add test scenario 3 - zero and negative input rejection
