@@ -110,3 +110,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-01-04** `[107]`: test(storage): add test scenario 5 - concurrent interleaved execution invariant
 - **2024-01-07** `[108]`: test(storage): format summary table and pass/fail assertion reporter
 - **2024-01-10** `[109]`: fix(test): correct expected test returncode assertion condition
+- **2024-01-14** `[110]`: Merge pull request #33 from pilvepank/test-suite
