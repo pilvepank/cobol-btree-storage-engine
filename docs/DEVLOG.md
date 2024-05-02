@@ -143,3 +143,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-04-22** `[140]`: Merge pull request #43 from pilvepank/feat-btree_wal_logger
 - **2024-04-26** `[141]`: feat(btree_cursor): declare copybook schema CURSOR-STATE.cpy
 - **2024-04-29** `[142]`: feat(btree_cursor): add validation bounds and status condition names to CURSOR-STATE.cpy
+- **2024-05-02** `[143]`: feat(btree_cursor): scaffold btree_cursor.cbl subprogram interface
