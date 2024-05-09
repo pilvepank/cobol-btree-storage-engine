@@ -145,3 +145,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-04-29** `[142]`: feat(btree_cursor): add validation bounds and status condition names to CURSOR-STATE.cpy
 - **2024-05-02** `[143]`: feat(btree_cursor): scaffold btree_cursor.cbl subprogram interface
 - **2024-05-06** `[144]`: feat(btree_cursor): implement calculation logic and state transitions in btree_cursor.cbl
+- **2024-05-09** `[145]`: feat(btree_cursor): add defensive parameter verification to btree_cursor.cbl
