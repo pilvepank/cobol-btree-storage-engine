@@ -149,3 +149,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-05-12** `[146]`: test(btree_cursor): establish automated unit test suite in btree_cursor_test.cbl
 - **2024-05-16** `[147]`: test(btree_cursor): achieve 100% test assertion pass rate for btree_cursor
 - **2024-05-19** `[148]`: refactor(btree_cursor): optimize memory layout and eliminate redundant PERFORM calls
+- **2024-05-22** `[149]`: docs(btree_cursor): document submodule architecture and usage in docs/SUBMODULES.md
