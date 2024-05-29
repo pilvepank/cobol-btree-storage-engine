@@ -151,3 +151,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-05-19** `[148]`: refactor(btree_cursor): optimize memory layout and eliminate redundant PERFORM calls
 - **2024-05-22** `[149]`: docs(btree_cursor): document submodule architecture and usage in docs/SUBMODULES.md
 - **2024-05-26** `[150]`: Merge pull request #46 from pilvepank/feat-btree_cursor
+- **2024-05-29** `[151]`: refactor(subsystems): tighten linkage section parameter validations (step 20)
