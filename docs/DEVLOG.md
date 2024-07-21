@@ -167,3 +167,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-07-11** `[164]`: refactor(subsystems): tighten linkage section parameter validations (step 33)
 - **2024-07-14** `[165]`: refactor(subsystems): tighten linkage section parameter validations (step 34)
 - **2024-07-18** `[166]`: feat(btree_fsck): declare copybook schema COMPACT-STATE.cpy
+- **2024-07-21** `[167]`: feat(btree_fsck): implement btree_fsck.cbl operational routines
