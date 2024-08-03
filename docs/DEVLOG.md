@@ -171,3 +171,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-07-24** `[168]`: test(btree_fsck): add automated unit tests in btree_compact_test.cbl
 - **2024-07-28** `[169]`: Merge pull request #55 from pilvepank/feat-btree_fsck
 - **2024-07-31** `[170]`: feat(btree_compact): declare copybook schema MVCC-STATE.cpy
+- **2024-08-03** `[171]`: feat(btree_compact): implement btree_compact.cbl operational routines
