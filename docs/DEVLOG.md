@@ -176,3 +176,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-08-10** `[173]`: Merge pull request #56 from pilvepank/feat-btree_compact
 - **2024-08-13** `[174]`: feat(btree_mvcc): declare copybook schema BLOOM-FILTER.cpy
 - **2024-08-17** `[175]`: feat(btree_mvcc): implement btree_mvcc.cbl operational routines
+- **2024-08-20** `[176]`: test(btree_mvcc): add automated unit tests in btree_bloom_test.cbl
