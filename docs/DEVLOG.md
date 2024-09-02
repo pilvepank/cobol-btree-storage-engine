@@ -180,3 +180,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-08-23** `[177]`: Merge pull request #57 from pilvepank/feat-btree_mvcc
 - **2024-08-27** `[178]`: feat(btree_bloom_filter): declare copybook schema LOCK-MANAGER.cpy
 - **2024-08-30** `[179]`: feat(btree_bloom_filter): implement btree_bloom_filter.cbl operational routines
+- **2024-09-02** `[180]`: test(btree_bloom_filter): add automated unit tests in btree_lock_test.cbl
