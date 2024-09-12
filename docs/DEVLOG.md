@@ -183,3 +183,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-09-02** `[180]`: test(btree_bloom_filter): add automated unit tests in btree_lock_test.cbl
 - **2024-09-06** `[181]`: Merge pull request #59 from pilvepank/feat-btree_bloom_filter
 - **2024-09-09** `[182]`: feat(btree_lock_manager): declare copybook schema SECONDARY-INDEX.cpy
+- **2024-09-12** `[183]`: feat(btree_lock_manager): implement btree_lock_manager.cbl operational routines
