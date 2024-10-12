@@ -1,3 +1,3 @@
-# B+ Tree Storage Engine Architecture Specification
+# B+ Tree Storage Engine Architecture Manual
 
-High-performance COBOL engine designed for mission-critical execution.
+Complete system blueprints.
