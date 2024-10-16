@@ -193,3 +193,4 @@ Generated automatically for TalTech software audit and thesis verification.
 - **2024-10-06** `[190]`: ci: configure automated GitHub Actions CI workflow with GnuCOBOL 3.2
 - **2024-10-09** `[191]`: docs: add comprehensive architectural diagrams and specifications to README
 - **2024-10-12** `[192]`: docs: document pre-trade risk management, protocols, and storage recovery
+- **2024-10-16** `[193]`: chore: update version manifest to production release
