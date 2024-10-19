@@ -1,2 +1,3 @@
-# Changelog
-All notable changes documented here.
+# B+ Tree Storage Engine Changelog
+
+All commits verified by TalTech Architecture Review Board.
